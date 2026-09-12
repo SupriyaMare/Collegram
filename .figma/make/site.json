@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates seamless communication and request management between students and teachers with forms, payment processing, and event sharing features.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

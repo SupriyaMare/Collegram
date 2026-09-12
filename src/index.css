@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  height: 100%;
+  font-family: 'Outfit', sans-serif;
+  background: #ffffff;
+}
+
+* {
+  scrollbar-width: none;
+  box-sizing: border-box;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+
+:root {
+  --green: #16A34A;
+  --green-light: #22C55E;
+  --green-bg: #F0FDF4;
+  --green-border: #BBF7D0;
+  --purple: #7C3AED;
+  --purple-light: #8B5CF6;
+  --purple-bg: #F5F3FF;
+  --orange: #F97316;
+  --orange-bg: #FFF7ED;
+  --red: #EF4444;
+  --red-bg: #FEF2F2;
+  --slate: #0F172A;
+  --muted: #64748B;
+  --border: #E2E8F0;
+  --surface: #F8FAFC;
+}
