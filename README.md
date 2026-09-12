@@ -3,6 +3,8 @@
 > A unified campus communication and student services platform for
 > students and faculty.
 
+> Live Preview Avaible here : https://collegram.netlify.app/
+
 ## Overview
 
 **Collegram** is a college-focused digital platform designed to simplify
